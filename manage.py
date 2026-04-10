@@ -3,7 +3,10 @@
 import os
 import sys
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 94e157f0c41fae496ab2f0c6d6ba28194bdc4538
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app.settings')
@@ -19,4 +22,8 @@ def main():
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 94e157f0c41fae496ab2f0c6d6ba28194bdc4538
