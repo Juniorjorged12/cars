@@ -3,4 +3,4 @@
 # Tambm foi inserido campos com a possibilidade de cadastrar a placa do veiculo e  como colocar dados adicionais dos veiculos
 # Sistema feito em backend com django  e banco de dados PostreSQL
 # Front end feito com HTML e CSS  e direcionamento dos templates
-#Sistema buscando aperfeiçoar o sistema MVT  do django  aperfeiçoando os models  e os templates do django
+
